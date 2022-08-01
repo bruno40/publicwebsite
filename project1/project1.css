@@ -67,3 +67,7 @@ background:#000
 li::marker {
   color:#f0b6e7;
 }
+  img {
+  filter:invert();
+  }
+}
